@@ -1,0 +1,31 @@
+"""
+list1 = [3,5,2,8,9,6]
+#min and max using a while loop
+# want it to repeat an action until action isn't true anymore 
+def second_way (list1):
+	mini = list1 [0]
+	for d in list1 :
+		while 
+			
+		d = mini 
+	return mini
+print (second_way(list1))
+
+def second_way2 (list1):
+
+# I want it to check if each value is greater than or equal to the lowest so far 
+# once is it less than, I want it to make that the new mini
+#lastly I want it to stop at the end of the list 
+
+#I am thinking I can use list []
+#evaluate each list [] to next biggest one
+"""
+
+def summation (num):
+    final = 0
+    while num > 0:
+        final = final + num % 10
+        num = num // 10
+    return final
+
+print (summation (12345))
