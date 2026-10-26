@@ -54,3 +54,5 @@ paragraph = (
 sentences, average_vowels, average_consonants = average_vowels_and_consonants (paragraph)
 # Write descriptive print statements, with f-strings, that output the average vowels and consonants per sentence of the paragraph. 
 print(f"The number of sentences in this paragraph is {sentences}. The average vowels per sentence is {average_vowels}. The average consonants per sentence is {average_consonants}.")
+
+#my code doesn't work brooo
